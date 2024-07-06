@@ -12,19 +12,22 @@
     font-weight: 200;
     font-size: 45px;
     height: 96px;
-    width: 1375px;
+    width: 1300px;
     line-height: 48px;
+    margin: auto;
     margin-bottom: 70px;
+    
     
     
    
     
 }
 .picture1{
-    width:1415px;
+    width:1300px;
     height: 500px;
     margin: auto;
     background: url('./images/img1.png');
+    background-position: center;
    
     
     
