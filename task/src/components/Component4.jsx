@@ -24,10 +24,12 @@ const Component4=()=>{
                         <p>Daily User Engagments</p>
                     </div>
                     <div className="para4">
-                        <p>Daily User Engagments</p>
+                        <p>Revenue Surge for an Platform
+</p>
                     </div>
                     <div className="para4">
-                        <p>Daily User Engagments</p>
+                        <p>ROAS on all our 
+                        marketing campaigns</p>
                     </div>
 
                 </div>
